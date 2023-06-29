@@ -73,15 +73,6 @@ body {
   box-shadow: none;
 }
 
-/* .tickets {
-  margin-top: 30px;
-}
-
-.tickets__container {
-  display: flex;
-  flex-direction: column;
-} */
-
 .tickets-list {
   margin-top: 30px;
   display: flex;
